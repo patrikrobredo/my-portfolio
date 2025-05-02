@@ -1,7 +1,6 @@
-import React from "react";
-import '@fortawesome/free-regular-svg-icons'
+import { faDocker, faLaravel, faReact } from '@fortawesome/free-brands-svg-icons';
+import '@fortawesome/free-regular-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython, faLaravel } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
